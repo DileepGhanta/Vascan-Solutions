@@ -1,4 +1,4 @@
-
+html { scroll-behavior: smooth; }
 body{
     box-sizing: border-box;
     background-color: #f5fff5;
